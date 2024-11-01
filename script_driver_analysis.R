@@ -1,7 +1,7 @@
 #### analysis  paper 1  ####
 
 #loading data
-setwd("C:/Users/cschu/Documents/Paper1/")
+setwd("/")
 data <- read.csv("table_driver_analysis.csv", sep = ",", header = T, stringsAsFactors = FALSE)
 
 #loading libraries
